@@ -7,7 +7,7 @@ namespace DoneRightAddressAPI.DAL.DBInteractions
 {
     public class Connection
     {
-        #region Fieldsssss
+        #region Fields
         public static IConfigurationRoot Configuration { get; set; }
         SqlConnection sqlConnection = null;
         #endregion
