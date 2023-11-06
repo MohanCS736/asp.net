@@ -14,8 +14,8 @@ namespace DoneRightAddressAPI.DAL.DBInteractions
         #region Methods
         /// <summary>
         /// Get Connection String From App-setting.
-        /// </summary>
-        /// <returns>Return Connection String.</returns>
+        /// </summaryyyyy>
+        /// <returns>Return Connection String.</returns>///////////////
         public static string GetDBConnection()
         {
             var builder = new ConfigurationBuilder()
